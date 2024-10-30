@@ -1,0 +1,11 @@
+10-14 13:21:34.197  root     0     0 I trusty  : hogehogeohogehogehogehogehogeohogehogehogehogehogeohogehogehoge
+10-14 13:21:34.198  root     0     0 E trusty  : Process: com.codmon.bus
+10-14 13:21:34.198  root     0     0 I trusty  : hogehogeohogehogehogehogehogeohogehogehogehogehogeohogehogehogehogehogeohogehogehoge
+10-14 13:21:34.214  root     0     0 I trusty  : hogehogeohogehogehoge
+10-14 13:21:34.214  root     0     0 I trusty  : hogehogeohogehogehogehogehogeohogehogehogehogehogeohogehogehogehogehogeohogehogehogehogehogeohogehogehogehogehogeohogehogehoge
+10-14 13:21:34.214  root     0     0 E trusty  : java.lang.RuntimeException: Unable to start activity
+10-14 13:21:34.214  root     0     0 I trusty  : hogehogeohogehogehogehogehogeohogehogehogehogehogeohogehogehogehogehogeohogehogehogehogehogeohogehogehoge
+10-14 13:21:34.214  root     0     0 I trusty  : [GF_TA][E]hogehogeohogehogehoge
+10-14 13:21:34.214  root     0     0 F trusty  : [GF_TA][E]hogehogeohogehogehoge00
+10-14 13:21:34.216  root     0     0 I trusty  : hogehogeohogehogehogehogehogeohogehogehogehogehogeohogehogehoge
+10-14 13:21:34.290  root     0     0 E trusty  : [GF_TA][E]エラーだよ！
